@@ -9,11 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.4.9",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@next/font": "13.1.2",
+    "@stripe/stripe-js": "^1.46.0",
+    "axios": "^1.2.3",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.2",
+    "framer-motion": "^8.4.7",
+    "micro": "^10.0.1",
     "next": "13.1.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "stripe": "^11.6.0"
   }
 }
